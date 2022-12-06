@@ -1,0 +1,84 @@
+file:europa.gif
+Tallin;543.0;242.5;Tirana;487.0;591.5;Warsaw;504.0;376.5;Dublin;183.0;303.5;Oslo;399.0;218.5;Prague;421.0;415.5;Budapest;479.0;470.5;Skopje;514.0;581.5;Chisnau;610.0;472.5;Valletta;400.0;690.5;Sarajevo;469.0;539.5;Monaco;315.0;522.5;London;246.0;358.5;Berlin;410.0;367.5;Paris;265.0;415.5;Luxembourg;315.0;412.5;Helsinki;539.0;219.5;Lisbon;55.0;559.5;Kiev;602.0;412.5;Madrid;140.0;556.5;Minsk;582.0;338.5;Amsterdam;307.0;353.5;Bern;324.0;467.5;Gibraltar;86.0;626.5;Ljubljana;417.0;493.5;Vaduz;352.0;467.5;Bucharest;576.0;525.5;Belgrade;498.0;524.5;Copenhagen;404.0;303.5;Vilinius;551.0;328.5;Vienna;443.0;459.5;Sofia;538.0;561.5;Bratisalava;458.0;450.5;Zagreb;440.0;502.5;Stockholm;471.0;243.5;Rome;387.0;573.5;Reykjavik;122.0;53.5;Riga;535.0;289.5;Athens;549.0;652.5;Brussels;297.0;385.5;
+Tallin;Paris;a;120
+Tallin;Prague;s;120
+Tirana;Chisnau;a;120
+Tirana;Bern;a;120
+Warsaw;Chisnau;as;120
+Warsaw;Oslo;a;120
+Dublin;Berlin;S;190
+Dublin;Paris;a;120
+Dublin;Stockholm;a;120
+Dublin;Reykjavik;REY - DUB;180
+Oslo;Stockholm;OSLO - STHLM;65
+Oslo;Reykjavik;REY - OSLO;180
+Oslo;Warsaw;a;120
+Oslo;Copenhagen;a;120
+Prague;Sofia;a;120
+Prague;Tallin;s;120
+Budapest;Vilinius;a;120
+Budapest;Monaco;a;120
+Skopje;Vienna;a;120
+Chisnau;Warsaw;as;120
+Chisnau;Tirana;a;120
+Valletta;Ljubljana;A;190
+Valletta;Luxembourg;A;190
+Monaco;Budapest;a;120
+Monaco;Copenhagen;m;120
+London;Gibraltar;GIB - LONDON;160
+Berlin;Kiev;A;190
+Berlin;Dublin;S;190
+Paris;Tallin;a;120
+Paris;Dublin;a;120
+Luxembourg;Bratisalava;A;190
+Luxembourg;Valletta;A;190
+Helsinki;Reykjavik;HFORS - REYK;190
+Helsinki;Stockholm;a;120
+Helsinki;Minsk;S;180
+Lisbon;Stockholm;STHLM - LISBON;265
+Lisbon;Madrid;MAD - LISB;65
+Lisbon;Reykjavik;REY - LISBON;180
+Lisbon;Rome;ROME - LISBON;140
+Kiev;Athens;A;190
+Kiev;Berlin;A;190
+Madrid;Riga;RIGA - MADRID;190
+Madrid;Lisbon;MAD - LISB;65
+Minsk;Helsinki;S;180
+Minsk;Bratisalava;S;190
+Amsterdam;Vienna;s;120
+Amsterdam;Athens;a;120
+Bern;Tirana;a;120
+Bern;Gibraltar;GIB - BERN;120
+Gibraltar;Bern;GIB - BERN;120
+Gibraltar;London;GIB - LONDON;160
+Ljubljana;Bucharest;A;190
+Ljubljana;Valletta;A;190
+Vaduz;Sofia;s;120
+Bucharest;Ljubljana;A;190
+Bucharest;Athens;ASD;190
+Copenhagen;Monaco;m;120
+Copenhagen;Oslo;a;120
+Vilinius;Riga;a;120
+Vilinius;Budapest;a;120
+Vienna;Amsterdam;s;120
+Vienna;Skopje;a;120
+Sofia;Prague;a;120
+Sofia;Vaduz;s;120
+Bratisalava;Luxembourg;A;190
+Bratisalava;Minsk;S;190
+Stockholm;Dublin;a;120
+Stockholm;Riga;STHLM - RIGA;190
+Stockholm;Lisbon;STHLM - LISBON;265
+Stockholm;Oslo;OSLO - STHLM;65
+Stockholm;Helsinki;a;120
+Rome;Lisbon;ROME - LISBON;140
+Reykjavik;Oslo;REY - OSLO;180
+Reykjavik;Helsinki;HFORS - REYK;190
+Reykjavik;Dublin;REY - DUB;180
+Reykjavik;Lisbon;REY - LISBON;180
+Riga;Vilinius;a;120
+Riga;Stockholm;STHLM - RIGA;190
+Riga;Madrid;RIGA - MADRID;190
+Athens;Bucharest;ASD;190
+Athens;Kiev;A;190
+Athens;Amsterdam;a;120
